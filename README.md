@@ -1,4 +1,3 @@
-
 # Udemy-Mini-Projects
 
 This repository contains mini projects made during Udemy's Angela yu's web development course.
